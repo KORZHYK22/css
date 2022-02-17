@@ -35,7 +35,7 @@ a:visited {
 
 .avatar {
   width: 200px;
-  hight: 200px;
+  height: 200px;
   border-radius: 28px; /*указываю закругленные края*/
   box-shadow: 10px 10px 14px rgba(0, 0, 0, 0.25); /*Указываем тень для аватарки*/
 }
